@@ -27,8 +27,6 @@ Facebook Comments Plus makes it simple to add the Facebook comments system to yo
 * Display facebook comments using shortcode.
 * Display facebook comments using php function.
 * Developed according to Facebook Graph API 2.3.
-* Also allows the use of Facebook SDK 2.0.
-
 
 **Requirements:**
 * 
